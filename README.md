@@ -16,7 +16,7 @@
 ```
 flink-grocery-powerbi/
 │
-├── Flink_Grocery.pbix           # Power BI report file
+├── Flink Grocery.pbix           # Power BI report file
 ├── FLINK_Grocery_Data.xlsx      # Source dataset
 ├── Screenshot_2026-05-21_013606.png  # Dashboard preview
 └── README.md
